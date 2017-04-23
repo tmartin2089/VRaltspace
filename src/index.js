@@ -2,7 +2,7 @@ import '../style/base.css';
 
 import THREE from 'three';
 import altspace from 'altspace';
-
+// these are comments yo
 import ChangeColorBehavior from './behaviors/change-color.js';
 
 const sim = altspace.utilities.Simulation();
