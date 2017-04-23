@@ -1,4 +1,4 @@
-# altspace-webpack-starter
+# altspace-webpack-browserysnc-starter
 
 Starter template for building Altspace apps with es6 and Webpack. The code is bundled up using [Webpack](https://webpack.github.io/) and a dev server is provided for previewing the app with live reload and [Hot Module Replacement](https://webpack.github.io/docs/hot-module-replacement.html).
 
@@ -11,7 +11,7 @@ npm install
 npm start
 ```
 
-This will start a development server on port 8080. Changes to any of the javascript or css files will automatically be reflected (most times without losing application state).
+This will start a development server on port 3000. Changes to any of the javascript or css files will automatically be reflected (most times without losing application state).
 
 ## Distribution
 
